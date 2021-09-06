@@ -273,7 +273,7 @@ end)
 
 
 function AddMethlab()
-	local ped= GetPlayerPed(-1)
+	local ped= PlayerPedId()
     local coords = GetOffsetFromEntityInWorldCoords(ped, 0.0, 1.2, 0.0)
     local heading = GetEntityHeading(ped)
 	local pedcoords = GetEntityCoords(ped)
