@@ -1,4 +1,4 @@
-# BOBsDrugsLabs WIP - - Three Part Drug System  2/3
+# BOBsDrugsLabs WIP - Three Part Drug System  2/3
 
 ESX  WIP Extended BOBsDrugs - Part 2/3
 
