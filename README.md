@@ -1,9 +1,18 @@
-# BOBsDrugsLabs
-ESX  WIP Extended BOBsDrugs
+# BOBsDrugsLabs WIP - - Three Part Drug System  2/3
+
+ESX  WIP Extended BOBsDrugs - Part 2/3
 
 # Preview
 
 https://youtu.be/xgRTBoBm1tg
+
+# Part 1
+
+https://github.com/SnooZ-ZA/BOBsDrugs
+
+# Part 3
+
+https://github.com/SnooZ-ZA/BOBsDealer
 
 # Dependancy:
 
